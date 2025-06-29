@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "probando"
 apt update
+apt install -y net-tools
